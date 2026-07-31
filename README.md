@@ -108,7 +108,7 @@ Software development is the meeting point where logic turns into robust solution
 ## ⚡ Recent GitHub Activity:
 
 <!--START_SECTION:activity-->
-*Recent activity updates automatically via GitHub Actions.*
+1. 🎉 Merged PR [#1](https://github.com/GustavoBaranda/Shopping-Cart-Vanilla-JavaScript/pull/1) in [GustavoBaranda/Shopping-Cart-Vanilla-JavaScript](https://github.com/GustavoBaranda/Shopping-Cart-Vanilla-JavaScript)
 <!--END_SECTION:activity-->
 
 ---
