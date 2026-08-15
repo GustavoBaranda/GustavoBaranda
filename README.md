@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Gustavo Baranda
 
-### 🚀 Full Stack Developer (Python & Django / React / Laravel) | Técnico Superior en Software | Data Science Student
+### 🚀 Full Stack Developer (Python & Django / React) | Técnico Superior en Software | Data Science Student
 
 > **"Building the bridge between code and data."**
 
