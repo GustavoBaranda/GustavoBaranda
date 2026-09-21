@@ -110,7 +110,7 @@ Software development is the meeting point where logic turns into robust solution
 ## ⚡ Recent GitHub Activity:
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.1 - Project Metadata & PyPI Badges](https://github.com/GustavoBaranda/chatflow-agent/releases/tag/v0.1.1) in [GustavoBaranda/chatflow-agent](https://github.com/GustavoBaranda/chatflow-agent)
+1. 🚀 Published release [v0.2.0 - Native SQLite Persistence & Production Starters](https://github.com/GustavoBaranda/chatflow-agent/releases/tag/v0.2.0) in [GustavoBaranda/chatflow-agent](https://github.com/GustavoBaranda/chatflow-agent)
 <!--END_SECTION:activity-->
 
 ---
