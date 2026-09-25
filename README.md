@@ -110,7 +110,7 @@ Software development is the meeting point where logic turns into robust solution
 ## ⚡ Recent GitHub Activity:
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.3.0 — Corrección de seguridad crítica en WhatsApp Webhook](https://github.com/GustavoBaranda/chatflow-agent/releases/tag/v0.3.0) in [GustavoBaranda/chatflow-agent](https://github.com/GustavoBaranda/chatflow-agent)
+1. ❗ Opened issue [#2](https://github.com/GustavoBaranda/chatflow-agent/issues/2) in [GustavoBaranda/chatflow-agent](https://github.com/GustavoBaranda/chatflow-agent)
 <!--END_SECTION:activity-->
 
 ---
