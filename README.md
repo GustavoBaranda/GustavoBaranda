@@ -110,7 +110,7 @@ Software development is the meeting point where logic turns into robust solution
 ## ⚡ Recent GitHub Activity:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#20](https://github.com/GustavoBaranda/chatflow-agent/pull/20) in [GustavoBaranda/chatflow-agent](https://github.com/GustavoBaranda/chatflow-agent)
+1. 🚀 Published release [v0.3.2 - Security & Resilience Hardening](https://github.com/GustavoBaranda/chatflow-agent/releases/tag/v0.3.2) in [GustavoBaranda/chatflow-agent](https://github.com/GustavoBaranda/chatflow-agent)
 <!--END_SECTION:activity-->
 
 ---
