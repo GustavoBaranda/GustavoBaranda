@@ -1,120 +1,134 @@
-# Hi there 👋 I'm Gustavo Baranda
+# Gustavo Baranda
 
-### 🚀 Full Stack Developer (Python & Django / React) | Técnico Superior en Software | Data Science Student
+### Full Stack Python Developer | Backend-focused · Django · SQL Server | Open Source Maintainer
 
-> **"Building the bridge between code and data."**
+I'm a **Full Stack Python Developer with a strong backend focus**, building and maintaining enterprise applications with **Django and SQL Server**. My work spans backend architecture, business logic, relational databases, service integrations, and web interfaces across logistics, banking, and healthcare.
 
-Software development is the meeting point where logic turns into robust solutions and data into strategic decisions.
+Alongside my professional work, I created and maintain **chatflow-agent**, an open source Python library where I develop features, manage issues, review external contributions, and work on software quality and maintainability. I hold the title of **Técnico Superior en Desarrollo de Software** and am pursuing a B.S. in Data Science.
 
----
-
-## 💫 About Me:
-
-- 💻 **Backend Engineering**: Specialized in building solid, scalable backend systems using **Python & Django** (4.2 / 5.0) and **Laravel 12 / PHP 8.2**, REST APIs, WebSockets (**Django Channels**), **Celery & Redis** task queues, and efficient database architectures.
-- 🎨 **Frontend Development**: Crafting clean, responsive, and intuitive web interfaces with **React**, **Next.js**, **Tailwind CSS**, and modern UI/UX design practices.
-- 📊 **Data Science & Analytics**: Pursuing a B.S. in Data Science at **UdelaCiudad**, applying data-driven analytical thinking, ETL pipelines (**Pandas, NumPy, SciPy**), and mathematical models to software architecture.
-- 🎓 **Academic Education**:
-  - 🎓 **UdelaCiudad (Universidad de la Ciudad de Buenos Aires)**: B.S. in Data Science *(In progress | Mar 2026 — Present)*
-  - 🎓 **IFTS N°29**: Higher Technical Degree in Software Development *(Graduated / Finalizado | Jul 2023 — Dic 2025)*
-  - 🎓 **Universidad FASTA**: Formación Pedagógica para Profesionales *(Graduated / Finalizado | Ago 2024 — Dic 2025)*
-- 📜 **Certifications & Specializations**:
-  - 📜 **Python Developer** — Education IT *(Ago 2022 — Dic 2022)*
-  - 📜 **Frontend Developer** — Coderhouse *(Dic 2021 — Jul 2022)*
-- 💼 **Professional Experience**:
-  - 🏢 **Full Stack Developer Python** @ **SySpro Consulting** *(May 2025 — Present)*  
-    *DepofisWEB* — Enterprise port logistics & fiscal warehouse platform (Django 4.2, SQL Server, Celery, Redis, Django Channels WebSockets, pyHanko Digital Signature, VAPID Web Push, ARCA/AFIP SOAP, Huawei Cloud OBS).
-  - 🏥 **Full Stack Developer Laravel** @ **Fundación Dr. Guido Maldonado** *(Apr 2025 — May 2025)*  
-    Occupational medicine clinical platform (Laravel 12, PHP 8.2, MySQL, DICOM Viewer Canvas/DWV, Yajra DataTables, RBAC).
-  - 🏦 **Backend Developer Python** @ **Solar Banco (Paraguay)** *(Dec 2024 — Mar 2025)*  
-    Regulatory financial liquidity & LCR/VaR engine (Django 5.0, Python ETL, Oracle DW, Pandas, LDAP/SSO).
-  - 🥤 **Front-end Developer React** @ **Las Verde (Mendoza)** *(Dec 2022 — Mar 2023)*  
-    E-commerce SPA (React 18, Firebase Firestore, Sass). Coderhouse Top 10 distinction.
-- 🌐 **Languages**:
-  - 🇪🇸 **Spanish**: Native
-  - 🇬🇧 **English**: Technical & Written *(Intermediate / Continuous learning)*
-- 🌐 **Portfolio Website**: [gustavobaranda.com](https://gustavobaranda.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat)](https://gustavobaranda.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat)](https://www.linkedin.com/in/gustavobaranda/)
+[![Email](https://img.shields.io/badge/Email-374151?style=flat)](mailto:baranda.gustavo@gmail.com)
 
 ---
 
-## 🌐 Connect with Me:
+## Featured open source · chatflow-agent
 
-<p>
-  <a href="https://gustavobaranda.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/gustavobaranda/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/GustavoBaranda" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
+**Creator & Maintainer** · [Repository & documentation](https://github.com/GustavoBaranda/chatflow-agent) · [PyPI](https://pypi.org/project/chatflow-agent/)
+
+> **chatflow-agent** is an open source Python library for building conversational applications that coordinate specialized AI agents. It brings conversation routing, session state, and messaging channels together for applications such as support assistants and messaging bots.
+
+Its modular design separates agent orchestration, model providers, session storage, and channel adapters, allowing developers to reuse agent logic across interfaces and configure these components independently.
+
+```bash
+pip install chatflow-agent
+```
+
+As creator and maintainer, I lead the library's technical development, maintain its documentation, manage issues, and review contributions from external developers, with a focus on code quality, testing, and maintainability.
+
+- **Core capabilities:** asynchronous execution, agent handoffs, SQLite session persistence, and per-session concurrency handling.
+- **Implemented channels:** WhatsApp, Telegram, and CLI. A separate FastAPI service example demonstrates generic webhook integration.
+- **Reliability & testing:** retry logic, HMAC signature validation for WhatsApp webhooks, and automated tests for core behavior and integrations.
+
+[Issues](https://github.com/GustavoBaranda/chatflow-agent/issues) · [Contributing guide](https://github.com/GustavoBaranda/chatflow-agent/blob/main/CONTRIBUTING.md) · [Pull requests](https://github.com/GustavoBaranda/chatflow-agent/pulls) · [Security policy](https://github.com/GustavoBaranda/chatflow-agent/blob/main/SECURITY.md)
+
+---
+
+## Professional experience
+
+### SySpro Consulting · Full Stack Developer Python
+
+*May 2025 — Present*
+
+Full stack development for **DepofisWEB**, an enterprise platform for port logistics and fiscal warehouse operations, and **TURNERO_APP**, with a strong backend focus. My work includes web interfaces, backend features, business rules, and integrations.
+
+- **Backend & deployment:** Django 4.2, SQL Server, IIS, Celery, Redis, and Django Channels / WebSockets.
+- **Integrations:** digital signatures with pyHanko, VAPID Web Push, ARCA/AFIP SOAP services, and Huawei Cloud OBS.
+
+### Fundación Dr. Guido Maldonado · Full Stack Developer Laravel
+
+*Apr 2025 — May 2025*
+
+Development of an occupational medicine clinical platform with **Laravel 12, PHP 8.2, and MySQL**, including DICOM visualization with Canvas/DWV, Yajra DataTables, and role-based access control (RBAC).
+
+### Solar Banco (Paraguay) · Backend Developer Python
+
+*Dec 2024 — Mar 2025*
+
+Backend development for regulatory financial liquidity and LCR/VaR processing, using **Django 5.0, Python ETL, Oracle DW, Pandas, and LDAP/SSO integrations**.
+
+### Las Verde (Mendoza) · Front-end Developer React
+
+*Dec 2022 — Mar 2023*
+
+Development of an e-commerce SPA with **React 18, Firebase Firestore, and Sass**. Coderhouse Top 10 distinction.
+
+---
+
+## Tech stack & engineering focus
+
+### Core backend & databases
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-923332?style=flat)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=flat)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+
+**Primary stack:** Python, Django, and SQL Server.
+
+**Backend:** Django REST Framework, Celery, Redis, Django Channels, WebSockets, and REST APIs.
+
+**Engineering focus:** backend architecture, business logic, relational data modeling, background tasks, and service integrations. Testing and maintainability are demonstrated through pytest-based projects, API documentation, and contribution reviews.
+
+**Tools & supporting databases:** Git, GitHub, Docker, IIS, Postman, MySQL, SQLite, PostgreSQL, and Oracle (prior experience at Solar Banco).
+
+<details>
+<summary><strong>Complementary technologies · web, data & other projects</strong></summary>
+
+- **Frontend:** JavaScript, React, Next.js, Tailwind CSS, Bootstrap, and Sass.
+- **Additional backend experience:** PHP and Laravel.
+- **Data science & analysis:** Pandas, NumPy, and SciPy, alongside my ongoing degree studies.
+- **Other project experience:** Node.js, Express.js, C#, MongoDB, and Firebase.
+
+</details>
+
+---
+
+## Selected projects
+
+### [WeatherFlow-API](https://github.com/GustavoBaranda/WeatherFlow-API)
+
+A Python / Django REST Framework project for user management and weather preferences. Includes modular views and serializers, OpenAPI documentation with Swagger UI and ReDoc, a health endpoint, and unit and integration tests with pytest-django.
+
+Other public work includes my [personal portfolio](https://github.com/GustavoBaranda/Portfolio) and [Las Verde](https://github.com/GustavoBaranda/Las-verde), complementing my backend focus with web interface development.
+
+---
+
+## Education & certifications
+
+- **Universidad de la Ciudad de Buenos Aires (UdelaCiudad)** — B.S. in Data Science. *Mar 2026 — Present · In progress.*
+- **IFTS N.º 29** — **Técnico Superior en Desarrollo de Software** (descriptive English translation: Higher Technical Qualification in Software Development). *Jul 2023 — Dec 2025 · Graduated.*
+- **Universidad FASTA** — Formación Pedagógica para Profesionales. *Aug 2024 — Dec 2025 · Completed.*
+
+**Additional training**
+
+- **Education IT** — Python Developer. *Aug 2022 — Dec 2022.*
+- **Coderhouse** — Frontend Developer. *Dec 2021 — Jul 2022.*
+
+**Languages:** Spanish — Native · English — Intermediate technical reading and writing; continuing study.
+
+---
+
+## Recent GitHub activity
+
+<img src="https://activity-graph.vercel.app/graph?username=GustavoBaranda&amp;theme=react-dark" alt="Gustavo Baranda GitHub contribution activity" width="100%" />
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=GustavoBaranda&amp;theme=radial&amp;hide_border=true" alt="GitHub streak statistics: Total Contributions, Current Streak, and Longest Streak" width="100%" />
 </p>
-
----
-
-## 💻 Tech Stack & Tooling:
-
-### **🚀 Core Production Stack**
-*Herramientas y tecnologías principales con las que diseño, desarrollo y escalo soluciones en producción:*
-
-- **Backend & Scalability:**  
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white" alt="Celery" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/WebSockets-010101?style=flat&logo=socketdotio&logoColor=white" alt="WebSockets" />
-
-- **Frontend Development:**  
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-
-- **Data Engineering & Databases:**  
-  <img src="https://img.shields.io/badge/PostgreSQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC292B?style=flat&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
-
-- **DevOps & Architecture:**  
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
-
-<br />
-
-### **🛠️ Also Experienced With**
-*Tecnologías implementadas en proyectos clínicos, e-commerce y entornos especializados:*
-
-<p>
-  <img src="https://img.shields.io/badge/Laravel_12-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel 12" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" />
-</p>
-
----
-
-## 📊 GitHub Stats:
-
-<div align="center">
-  <img src="https://activity-graph.vercel.app/graph?username=GustavoBaranda&theme=react-dark" alt="GitHub Activity Graph" width="97%" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=GustavoBaranda&theme=radial&hide_border=true" alt="GitHub Streak" width="97%" />
-</div>
-
----
-
-## ⚡ Recent GitHub Activity:
 
 <!--START_SECTION:activity-->
 1. 🔒 Closed issue [#60](https://github.com/GustavoBaranda/chatflow-agent/issues/60) in [GustavoBaranda/chatflow-agent](https://github.com/GustavoBaranda/chatflow-agent)
 <!--END_SECTION:activity-->
-
----
-
-<p align="center">
-  <i>Thanks for visiting! Explore my full portfolio and get in touch at <a href="https://gustavobaranda.com/">gustavobaranda.com</a> 🚀</i>
-</p>
