@@ -20,9 +20,7 @@ Alongside my professional work, I created and maintain **chatflow-agent**, an op
 
 Its modular design separates agent orchestration, model providers, session storage, and channel adapters, allowing developers to reuse agent logic across interfaces and configure these components independently.
 
-```bash
-pip install chatflow-agent
-```
+**Installation:** `pip install chatflow-agent`
 
 As creator and maintainer, I lead the library's technical development, maintain its documentation, manage issues, and review contributions from external developers, with a focus on code quality, testing, and maintainability.
 
