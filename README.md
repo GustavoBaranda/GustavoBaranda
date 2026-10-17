@@ -65,7 +65,9 @@ Development of an e-commerce SPA with **React, Firebase Firestore, and Sass**. C
 
 ## Tech stack & engineering focus
 
-**Primary specialization:** Python, Django, and SQL Server.
+### Primary specialization
+
+**Python, Django, and SQL Server** are my primary specialization.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
@@ -73,23 +75,63 @@ Development of an e-commerce SPA with **React, Firebase Firestore, and Sass**. C
 
 ### Backend
 
-Python, Django, Django REST Framework, Celery, Django Channels, WebSockets, and REST APIs.
+Building on Python and Django: REST APIs, background tasks, and real-time communication.
+
+![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-923332?style=flat)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white)
+![Django Channels](https://img.shields.io/badge/Django_Channels-092E20?style=flat&logo=django&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-374151?style=flat)
+![REST APIs](https://img.shields.io/badge/REST_APIs-374151?style=flat)
 
 **Additional experience:** PHP and Laravel; Node.js, Express.js, and C# in other projects.
 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-333333?style=flat&logo=express&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat)
+
 ### Frontend
 
-React, Next.js, JavaScript, HTML, CSS, Tailwind CSS, Bootstrap, and Sass.
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-663399?style=flat&logo=css&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat&logo=tailwindcss&logoColor=38BDF8)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
 
 ### Databases
 
-**Primary:** SQL Server. **Additional experience:** MySQL, PostgreSQL, SQLite, and Oracle DW (Solar Banco); MongoDB and Firebase / Firestore in other projects.
+**Primary:** SQL Server (highlighted above). **Additional experience:** MySQL, PostgreSQL, SQLite, and Oracle DW (Solar Banco); MongoDB and Firebase / Firestore in other projects.
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Oracle DW](https://img.shields.io/badge/Oracle_DW-C74634?style=flat)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=black)
+![Firebase / Firestore](https://img.shields.io/badge/Firebase_%2F_Firestore-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 ### Infrastructure & tools
 
-Docker, IIS, Redis, Huawei Cloud OBS, Git, GitHub, Postman, and VS Code.
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![IIS](https://img.shields.io/badge/IIS-0078D4?style=flat)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Huawei Cloud OBS](https://img.shields.io/badge/Huawei_Cloud_OBS-CF0A2C?style=flat&logo=huawei&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
 
-**Data processing & analysis:** Pandas, NumPy, and SciPy, alongside my ongoing degree studies.
+### Data processing & analysis
+
+Alongside my ongoing degree studies:
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=black)
 
 **Engineering focus:** backend architecture, business logic, relational data modeling, background tasks, and service integrations. Testing and maintainability are demonstrated through pytest-based projects, API documentation, and contribution reviews.
 
