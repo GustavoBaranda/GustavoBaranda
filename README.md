@@ -2,7 +2,7 @@
 
 ### Full Stack Python Developer | Backend-focused · Django · SQL Server | Open Source Maintainer
 
-I'm a **Full Stack Python Developer with a strong backend focus**, building and maintaining enterprise applications with **Django and SQL Server**. My work spans backend architecture, business logic, relational databases, service integrations, and web interfaces across logistics, banking, and healthcare.
+I'm a **Full Stack Python Developer with a strong backend focus**, building and maintaining enterprise applications with **Django and SQL Server**. My work spans backend architecture, business logic, relational databases, service integrations, and web interfaces across logistics, banking, and healthcare. My frontend experience includes **React, Next.js, and JavaScript**.
 
 Alongside my professional work, I created and maintain **chatflow-agent**, an open source Python library where I develop features, manage issues, review external contributions, and work on software quality and maintainability. I hold the title of **Técnico Superior en Desarrollo de Software** and am pursuing a B.S. in Data Science.
 
@@ -40,57 +40,58 @@ As creator and maintainer, I lead the library's technical development, maintain 
 
 Full stack development for **DepofisWEB**, an enterprise platform for port logistics and fiscal warehouse operations, and **TURNERO_APP**, with a strong backend focus. My work includes web interfaces, backend features, business rules, and integrations.
 
-- **Backend & deployment:** Django 4.2, SQL Server, IIS, Celery, Redis, and Django Channels / WebSockets.
+- **Backend & deployment:** Django, SQL Server, IIS, Celery, Redis, and Django Channels / WebSockets.
 - **Integrations:** digital signatures with pyHanko, VAPID Web Push, ARCA/AFIP SOAP services, and Huawei Cloud OBS.
 
 ### Fundación Dr. Guido Maldonado · Full Stack Developer Laravel
 
 *Apr 2025 — May 2025*
 
-Development of an occupational medicine clinical platform with **Laravel 12, PHP 8.2, and MySQL**, including DICOM visualization with Canvas/DWV, Yajra DataTables, and role-based access control (RBAC).
+Development of an occupational medicine clinical platform with **Laravel, PHP, and MySQL**, including DICOM visualization with Canvas/DWV, Yajra DataTables, and role-based access control (RBAC).
 
 ### Solar Banco (Paraguay) · Backend Developer Python
 
 *Dec 2024 — Mar 2025*
 
-Backend development for regulatory financial liquidity and LCR/VaR processing, using **Django 5.0, Python ETL, Oracle DW, Pandas, and LDAP/SSO integrations**.
+Backend development for regulatory financial liquidity and LCR/VaR processing, using **Django, Python ETL, Oracle DW, Pandas, and LDAP/SSO integrations**.
 
 ### Las Verde (Mendoza) · Front-end Developer React
 
 *Dec 2022 — Mar 2023*
 
-Development of an e-commerce SPA with **React 18, Firebase Firestore, and Sass**. Coderhouse Top 10 distinction.
+Development of an e-commerce SPA with **React, Firebase Firestore, and Sass**. Coderhouse Top 10 distinction.
 
 ---
 
 ## Tech stack & engineering focus
 
-### Core backend & databases
+**Primary specialization:** Python, Django, and SQL Server.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-923332?style=flat)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=flat)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
-**Primary stack:** Python, Django, and SQL Server.
+### Backend
 
-**Backend:** Django REST Framework, Celery, Redis, Django Channels, WebSockets, and REST APIs.
+Python, Django, Django REST Framework, Celery, Django Channels, WebSockets, and REST APIs.
+
+**Additional experience:** PHP and Laravel; Node.js, Express.js, and C# in other projects.
+
+### Frontend
+
+React, Next.js, JavaScript, HTML, CSS, Tailwind CSS, Bootstrap, and Sass.
+
+### Databases
+
+**Primary:** SQL Server. **Additional experience:** MySQL, PostgreSQL, SQLite, and Oracle DW (Solar Banco); MongoDB and Firebase / Firestore in other projects.
+
+### Infrastructure & tools
+
+Docker, IIS, Redis, Huawei Cloud OBS, Git, GitHub, Postman, and VS Code.
+
+**Data processing & analysis:** Pandas, NumPy, and SciPy, alongside my ongoing degree studies.
 
 **Engineering focus:** backend architecture, business logic, relational data modeling, background tasks, and service integrations. Testing and maintainability are demonstrated through pytest-based projects, API documentation, and contribution reviews.
-
-**Tools & supporting databases:** Git, GitHub, Docker, IIS, Postman, MySQL, SQLite, PostgreSQL, and Oracle (prior experience at Solar Banco).
-
-<details>
-<summary><strong>Complementary technologies · web, data & other projects</strong></summary>
-
-- **Frontend:** JavaScript, React, Next.js, Tailwind CSS, Bootstrap, and Sass.
-- **Additional backend experience:** PHP and Laravel.
-- **Data science & analysis:** Pandas, NumPy, and SciPy, alongside my ongoing degree studies.
-- **Other project experience:** Node.js, Express.js, C#, MongoDB, and Firebase.
-
-</details>
 
 ---
 
