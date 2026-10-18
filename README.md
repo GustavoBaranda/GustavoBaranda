@@ -171,5 +171,5 @@ Other public work includes my [personal portfolio](https://github.com/GustavoBar
 </p>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#70](https://github.com/GustavoBaranda/chatflow-agent/issues/70#issuecomment-6235821123) in [GustavoBaranda/chatflow-agent](https://github.com/GustavoBaranda/chatflow-agent)
+1. 🔒 Closed issue [#54](https://github.com/GustavoBaranda/chatflow-agent/issues/54) in [GustavoBaranda/chatflow-agent](https://github.com/GustavoBaranda/chatflow-agent)
 <!--END_SECTION:activity-->
