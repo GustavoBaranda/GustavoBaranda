@@ -20,7 +20,7 @@ I hold a Higher Technical Qualification in Software Development and am currently
 
 > **chatflow-agent** is an open source Python library designed to build, coordinate, and orchestrate multi-agent systems and conversational workflows.
 
-```bash
+```
 pip install chatflow-agent
 ```
 
