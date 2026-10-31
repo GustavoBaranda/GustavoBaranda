@@ -115,7 +115,7 @@ A curated selection of public repositories and web applications:
 </p>
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#166](https://github.com/GustavoBaranda/chatflow-agent/issues/166) in [GustavoBaranda/chatflow-agent](https://github.com/GustavoBaranda/chatflow-agent)
+1. 🔒 Closed issue [#163](https://github.com/GustavoBaranda/chatflow-agent/issues/163) in [GustavoBaranda/chatflow-agent](https://github.com/GustavoBaranda/chatflow-agent)
 <!--END_SECTION:activity-->
 
 
