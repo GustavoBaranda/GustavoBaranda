@@ -115,7 +115,7 @@ A curated selection of public repositories and web applications:
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#158](https://github.com/GustavoBaranda/chatflow-agent/pull/158) in [GustavoBaranda/chatflow-agent](https://github.com/GustavoBaranda/chatflow-agent)
+1. ℹ️ Assigned issue [#166](https://github.com/GustavoBaranda/chatflow-agent/issues/166) in [GustavoBaranda/chatflow-agent](https://github.com/GustavoBaranda/chatflow-agent)
 <!--END_SECTION:activity-->
 
 
