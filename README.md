@@ -16,23 +16,30 @@ I hold a Higher Technical Qualification in Software Development and am currently
 
 ## Featured Open Source · chatflow-agent
 
-**Creator & Technical Lead** · [Repository](https://github.com/GustavoBaranda/chatflow-agent) · [PyPI Package](https://pypi.org/project/chatflow-agent/) · [Documentation](https://github.com/GustavoBaranda/chatflow-agent#readme)
+**Creator & Technical Lead** · [Repository](https://github.com/GustavoBaranda/chatflow-agent) · [PyPI Package](https://pypi.org/project/chatflow-agent/) · [Documentation](https://chatflowagent.org/)
 
-> **chatflow-agent** is an open source Python library designed to build, coordinate, and orchestrate multi-agent systems and conversational workflows.
+> **chatflow-agent** is a lightweight, async-first, modular, and provider-agnostic Python framework for orchestrating multi-agent conversational workflows.
+
+[![PyPI version](https://img.shields.io/pypi/v/chatflow-agent.svg)](https://pypi.org/project/chatflow-agent/)
+[![Python versions](https://img.shields.io/pypi/pyversions/chatflow-agent.svg)](https://pypi.org/project/chatflow-agent/)
+[![License](https://img.shields.io/pypi/l/chatflow-agent.svg)](https://github.com/GustavoBaranda/chatflow-agent/blob/main/LICENSE)
+[![CI](https://github.com/GustavoBaranda/chatflow-agent/actions/workflows/test.yml/badge.svg)](https://github.com/GustavoBaranda/chatflow-agent/actions/workflows/test.yml)
 
 ```
 pip install chatflow-agent
 ```
 
-Its modular architecture decouples agent orchestration, model providers, session persistence, and communication adapters—enabling developers to reuse agent logic across interfaces and configure components independently.
+Its core has only two runtime dependencies—**Pydantic** and **HTTPX**—while keeping agent orchestration, LLM providers, session persistence, and communication channels independently configurable.
 
 ### Key Capabilities
-- **Multi-Agent Orchestration & Handoffs:** Asynchronous coordination with native agent-to-agent delegation and collaborative execution workflows.
-- **Tool Calling & Execution:** Structured tool definition and execution lifecycle for extending agent capabilities.
-- **Session State & Persistence:** Built-in SQLite session persistence, turn management, and per-session concurrency safety.
-- **Multi-Platform Channels:** Ready-to-use adapters for WhatsApp, Telegram, and CLI, alongside generic webhook integration via FastAPI.
-- **Reliability & Security:** Automatic retries, turn rollback mechanisms, HMAC webhook signature verification, and automated test coverage.
-- **Open Source Collaboration:** Actively maintained with technical documentation, structured contribution guidelines, and collaborative code reviews for external pull requests.
+- **Multi-Agent Orchestration & Handoffs:** Async coordination with native agent-to-agent delegation between specialist agents.
+- **Multi-Provider LLM Support:** Provider-agnostic engines for Gemini, OpenAI, Anthropic Claude, Grok, DeepSeek, Groq, Ollama, vLLM, and custom OpenAI-compatible endpoints.
+- **Tool Calling & Validation:** Typed tool schemas and runtime argument validation powered by Pydantic.
+- **Sessions & Concurrency:** Built-in SQLite persistence with per-session serialization and safe concurrent turn handling.
+- **Transactional Turns:** Configurable turn timeouts with automatic rollback of conversation, agent, and session state after failures or cancellation.
+- **Channels & Integrations:** WhatsApp, Telegram, and CLI adapters, plus support for custom webhook applications.
+- **Reliability & Security:** Retry handling, credential redaction, sanitized provider errors, webhook safeguards, and automated CI coverage.
+- **Open Source Collaboration:** Public contribution workflows, professional documentation, and an international contributor community.
 
 [Contributing Guide](https://github.com/GustavoBaranda/chatflow-agent/blob/main/CONTRIBUTING.md) · [Issues](https://github.com/GustavoBaranda/chatflow-agent/issues) · [Pull Requests](https://github.com/GustavoBaranda/chatflow-agent/pulls) · [Security Policy](https://github.com/GustavoBaranda/chatflow-agent/blob/main/SECURITY.md)
 
@@ -90,12 +97,11 @@ Its modular architecture decouples agent orchestration, model providers, session
 
 ---
 
-## Public Projects
+## Portfolio
 
-A curated selection of public repositories and web applications:
+**[Repository](https://github.com/GustavoBaranda/Portfolio)** · **[Live Site](https://gustavobaranda.com/)**
 
-- **[WeatherFlow-API](https://github.com/GustavoBaranda/WeatherFlow-API)** — Weather data REST API built with Django REST Framework, featuring OpenAPI documentation (Swagger UI & ReDoc), modular serializers, health check endpoints, and an automated testing suite with pytest-django.
-- **[Portfolio](https://github.com/GustavoBaranda/Portfolio)** — Personal web portfolio built with Next.js (App Router), React, TypeScript, and Tailwind CSS, featuring component-driven architecture and technical SEO optimization. Live at [gustavobaranda.com](https://gustavobaranda.com/).
+Personal web portfolio built with **Next.js 16 (App Router)**, **React 19**, **TypeScript**, and **Tailwind CSS 4**. It uses a component-driven architecture with Framer Motion, technical SEO, and a server-side contact API powered by Nodemailer.
 
 ---
 
