@@ -121,7 +121,7 @@ Personal web portfolio built with **Next.js 16 (App Router)**, **React 19**, **T
 </p>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#49](https://github.com/GustavoBaranda/chatflow-agent-web/pull/49) in [GustavoBaranda/chatflow-agent-web](https://github.com/GustavoBaranda/chatflow-agent-web)
+1. ℹ️ Labeled issue [#219](https://github.com/GustavoBaranda/chatflow-agent/issues/219) in [GustavoBaranda/chatflow-agent](https://github.com/GustavoBaranda/chatflow-agent)
 <!--END_SECTION:activity-->
 
 
