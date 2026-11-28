@@ -121,7 +121,7 @@ Personal web portfolio built with **Next.js 16 (App Router)**, **React 19**, **T
 </p>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#3](https://github.com/GustavoBaranda/Portfolio/pull/3) in [GustavoBaranda/Portfolio](https://github.com/GustavoBaranda/Portfolio)
+1. 🎉 Merged PR [#6](https://github.com/GustavoBaranda/Portfolio/pull/6) in [GustavoBaranda/Portfolio](https://github.com/GustavoBaranda/Portfolio)
 <!--END_SECTION:activity-->
 
 
